@@ -1,0 +1,18 @@
+{
+    "drawerHeaderText":"Merhaba !",
+    "homepage":"Anasayfa",
+    "myLearning":"Öğrendiklerim",
+    "mostCommon1000words":"En sık kullanılan 1000 kelime",
+    "oxfordB2words":"The Oxford B2 Seviye",
+    "oxfordC1words":"The Oxford C1 Seviye",
+    "settings":"Ayarlar",
+    "searchText":"Ara...",
+    "wordsLearned":"kelime öğrenildi",
+    "movetotrash":"Siliniyor...",
+    "deleteConfirmation":"Silinsin mi?",
+    "deleteConfirmationQuestionText":"Silmek istediğinize emin misiniz?",
+    "delete":"Sil",
+    "cancel":"İptal",
+    "deleted":"silindi",
+    "clickAgain":"Çıkış için çift tıklayın"
+}

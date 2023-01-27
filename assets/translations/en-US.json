@@ -1,0 +1,18 @@
+{
+    "drawerHeaderText":"Hello Guest !",
+    "homepage":"Home",
+    "myLearning":"My Learning",
+    "mostCommon1000words":"Most common 1000 words",
+    "oxfordB2words":"B2 Level words(The Oxford)",
+    "oxfordC1words":"C1 Level words(The Oxford)",
+    "settings":"Settings",
+    "searchText":"Search...",
+    "wordsLearned":"words learned",
+    "movetotrash":"Move to trash",
+    "deleteConfirmation":"Delete Confirmation",
+    "deleteConfirmationQuestionText":"Are you sure you want to delete this item?",
+    "delete":"Delete",
+    "cancel":"Cancel",
+    "deleted":"deleted",
+    "clickAgain":"Tap back again to leave"
+}
